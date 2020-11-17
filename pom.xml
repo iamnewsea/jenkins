@@ -93,7 +93,7 @@ THE SOFTWARE.
     <matrix-auth.version>2.6.2</matrix-auth.version>
     <matrix-project.version>1.17</matrix-project.version>
     <sorcerer.version>0.11</sorcerer.version>
-    <animal.sniffer.skip>${skipTests}</animal.sniffer.skip>
+    <animal.sniffer.skip>true</animal.sniffer.skip>
     <java.level>8</java.level>
 
     <changelog.url>https://jenkins.io/changelog</changelog.url>
